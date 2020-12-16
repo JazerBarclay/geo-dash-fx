@@ -5,3 +5,5 @@ geo-dash-fx/bin/**
 geo-dash-fx/logs/**
 geo-dash-fx/system/**
 geo-dash-fx/.classpath
+geo-dash-fx/.idea
+geo-dash-fx/geo-dash-fx.iml
