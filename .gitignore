@@ -2,3 +2,5 @@
 Thumbs.db
 FXGL
 geo-dash-fx/bin/**
+geo-dash-fx/logs/**
+geo-dash-fx/system/**
